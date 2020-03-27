@@ -1,0 +1,561 @@
+
+.diss p{
+    display: inline;
+
+}
+
+.imagechange1:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom1.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange1{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange2:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom2.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange2{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+.imagechange3:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom3.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange3{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+
+
+
+.imagechange4:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom4.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange4{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange5:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom5.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange5{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+.imagechange6:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/mom6.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange6{
+    font-size:40px;
+    margin: 20px;
+}
+
+/*DAD BEGINS*/
+
+.imagechange7:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad1.jpg); 
+    background-size:cover;   
+}
+
+.imagechange7{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange8:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad2.png); 
+    background-size:cover;   
+}
+
+.imagechange8{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange9:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad3.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange9{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange10:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad4.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange10{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange11:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad5.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange11{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange12:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/dad6.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange12{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+/*HOME BEGINS*/
+.imagechange13:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/home1.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange13{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange14:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/hometwo.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange14{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange15:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/home3.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange15{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange16:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/home4.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange16{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange17:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/home5.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange17{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange18:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/home6.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange18{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+
+/* LOVER BEGINS*/
+.imagechange19:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover1.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange19{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange20:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover2.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange20{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange21:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover3.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange21{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange22:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover4.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange22{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange23:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover5.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange23{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange24:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/lover6.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange24{
+    font-size:40px;
+    margin: 20px;
+}
+
+/* TEACHER BEGINS*/
+
+.imagechange25:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher1.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange25{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+.imagechange26:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher2.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange26{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange27:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher3.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange27{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange28:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher4.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange28{
+    font-size:40px;
+    margin: 20px;
+}
+
+
+
+.imagechange29:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher5.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange29{
+    font-size:40px;
+    margin: 20px;
+}
+
+.imagechange30:hover{
+    text-shadow:5px 5px 15px red;
+    transition-duration: 5s;
+    color:red;
+    font-size:40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin: 20px;
+    background-image:url(../images/teacher6.jpg); 
+    background-size:cover;
+    
+}
+
+.imagechange30{
+    font-size:40px;
+    margin: 20px;
+}
